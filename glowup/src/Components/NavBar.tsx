@@ -31,7 +31,8 @@ interface NavBarProps {
 
 const pages = [
   { name: "Inicio", link: "/" },
-  { name: "Admin", link: "/administrador" },
+  { name: "Contacto", link: "/contacto" },
+  { name: "Ofertas", link: "/descuentos" },
   { name: "Accesorios", link: "/accesorios" },
   { name: "Blusas y Camisas", link: "/blusas" },
   { name: "Corset y Body", link: "/corset" },
